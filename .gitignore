@@ -1,0 +1,19 @@
+# Dataset files
+data/
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
