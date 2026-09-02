@@ -70,8 +70,8 @@ This project benchmarks four anomaly-detection techniques, spanning distinct alg
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/yatharthagarwal0620-art/network-anomaly-detection.git
+cd network-anomaly-detection
 pip install -r requirements.txt
 ```
 
@@ -83,7 +83,7 @@ The full technical report — covering theoretical background, mathematical form
 
 ## Acknowledgements
 
-This work was carried out as part of a technical internship at DRDO, with the Isolation Forest and Local Outlier Factor experimental sections independently developed by a project partner.
+This work was carried out as part of a technical internship at DRDO, with the Z-Score and OCSVM experimental sections developed by Yatharth Agarwal and Isolation Forest and Local Outlier Factor experimental sections developed by Anshika Chauhan
 
 ## License
 
