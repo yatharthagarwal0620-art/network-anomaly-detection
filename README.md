@@ -87,4 +87,4 @@ This work was carried out as part of a technical internship at DRDO, with the Z-
 
 ## License
 
-Specify a license for this repository (e.g., MIT, Apache 2.0), or note any restrictions applicable to DRDO-affiliated work.
+This project is licensed under the MIT License.
