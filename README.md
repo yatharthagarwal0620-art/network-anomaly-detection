@@ -51,11 +51,8 @@ This project benchmarks four anomaly-detection techniques, spanning distinct alg
 ## Repository Structure
 
 ```
-├── data/                  # Dataset and preprocessing scripts
-├── notebooks/             # Exploratory analysis and model experiments
-├── src/                   # Core detection pipeline (Z-Score, IF, OCSVM, LOF)
-├── results/               # Evaluation outputs, plots, and confusion matrices
-├── report/                # Technical report / dissertation
+├── figures                # Evaluation outputs, plots, and confusion matrices
+├── notebooks/             # Exploratory analysis and model experiments               
 └── README.md
 ```
 
@@ -76,10 +73,6 @@ pip install -r requirements.txt
 ```
 
 Run the notebooks in `notebooks/` sequentially, or execute the pipeline scripts in `src/` directly.
-
-## Report
-
-The full technical report — covering theoretical background, mathematical formulation of each method, hyperparameter tuning studies, and detailed results — is available in the [`report/`](./report) directory.
 
 ## Acknowledgements
 
